@@ -8,7 +8,8 @@ cd /snap/chromium/current/usr/lib/chromium-browser
 ```shell
 ./chrome &
 ```
--   read more: https://flasher.meshtastic.org/
+-   go to: https://flasher.meshtastic.org/ and flash your device :)
+  
 -   read more: https://meshtastic.org/docs/getting-started/flashing-firmware/esp32/web-flasher/
 
 ### Meshtastic set your region (Serial) CLI
