@@ -18,6 +18,15 @@ meshtastic --set lora.region EU_868
 ```
 -   read more: https://meshtastic.org/docs/getting-started/initial-config/
 
+### Meshtastic set client Role (Serial) CLI
+
+```shell
+meshtastic --set device.role CLIENT
+```
+
+-   read the client Role list: https://meshtastic.org/docs/configuration/radio/device/#role-comparison
+-   read more: https://meshtastic.org/docs/configuration/radio/position/](https://meshtastic.org/docs/configuration/radio/device
+
 ### Meshtastic set nickname and shortname (Serial) CLI
 ```shell
 meshtastic --set-owner 'your node name' --set-owner-short  'NODE'
